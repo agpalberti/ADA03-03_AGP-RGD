@@ -17,7 +17,6 @@ dependencies {
     testImplementation(kotlin("test"))
     implementation("org.hibernate.orm:hibernate-core:6.1.6.Final")
     implementation("com.h2database:h2:2.1.214")
-    implementation("org.mindrot:jbcrypt:0.4")
 
 }
 

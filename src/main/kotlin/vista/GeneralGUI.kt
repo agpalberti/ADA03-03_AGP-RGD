@@ -3,7 +3,6 @@ package vista
 import Direccion
 import modelo.clases.Usuario
 import vista.strings.Strings
-import org.mindrot.jbcrypt.BCrypt
 
 interface GeneralGUI {
 

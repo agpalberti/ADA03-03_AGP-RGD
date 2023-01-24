@@ -6,7 +6,6 @@ import Taller
 import modelo.GestorBBDD
 import modelo.PasswordEncoder
 import modelo.clases.Usuario
-import org.mindrot.jbcrypt.BCrypt
 import vista.ClienteGUI
 import vista.LoginGUI
 import vista.TallerGUI
